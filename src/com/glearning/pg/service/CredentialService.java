@@ -63,11 +63,6 @@ public class CredentialService {
 		CredentialService.smallLetters = smallLetters;
 	}
 	
-
-	
-		
-		
-		
 		
 		
 		
